@@ -1,0 +1,5 @@
+create x = 10;
+repeat (x > 0) {
+    show x;
+    x = x - 1;
+}

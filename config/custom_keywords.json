@@ -1,0 +1,9 @@
+{
+    "create": "LET",
+    "show": "PRINT",
+    "when": "IF",
+    "otherwise": "ELSE",
+    "repeat": "WHILE",
+    "yes": "TRUE",
+    "no": "FALSE"
+}
